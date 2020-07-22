@@ -9,3 +9,5 @@ Since Car Name feature has many objects i.e., unique values, ingoring this featu
 RandomForestRegressor has given good accuracy and these parameters are tunned with RandomizedSearchCV because this is fast compared to other parameter tunning techniques. After building this model it is imported into pickle file.
 
 A web api was built using flask frame work and html, css for web page design. The model was deployed into heroku cloud. Heroku is PaaS(Platform as a service) cloud where one can deploy their models into use easily.
+
+You can check the deployed model here  https://sellingprice.herokuapp.com/   
